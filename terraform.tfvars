@@ -14,5 +14,9 @@ rgs = {
     location = "CentralIndia"
 
   }
+ rg4 = {
+    name     = "myrgpract4"
+    location = "CentralIndia"
 
+  }
 }
