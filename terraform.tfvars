@@ -19,4 +19,12 @@ rgs = {
     location = "CentralIndia"
 
   }
+
+rg5 = {
+    name     = "myrgpract5"
+    location = "CentralIndia"
+
+  }
+
 }
+
